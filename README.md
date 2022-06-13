@@ -45,8 +45,6 @@ CSV file containing a list of 100 greatest Hollywood actors
 
 The reason I chose to load it into SQL is because relationships can be formed between my tables. As an example, if the client wanted to see which movies the actors have performed on, there is actor data on both tables.
 
-### Limitations
-
+## Limitations
 With the given information I do think that the client would be able to complete their research and data analysis. 
 If I had more time, I can source more data and create a more relational database.
-=======
