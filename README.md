@@ -2,6 +2,7 @@
 
 Customer: Movie producer who is looking to produce a film. He requested his research team to look into films that had good reviews and also look into actors that can be considered to cast in the movie.
 
+<<<<<<< HEAD
 Requirement: 
 1. Table of data that would show movie title, ratings, etc.
 2. Table of data with a list of actors, date of birth, movies they have been on and awards
@@ -48,3 +49,19 @@ The reason I chose to load it into SQL is because relationships can be formed be
 ### Limitations
 With the given information I do think that the client would be able to complete their research and data analysis. 
 If I had more time, I can source more data and create a more relational database.
+=======
+Requirement: <br>
+Table of data that would show movie title, genre, ratings, budget, profit, language<br>
+Table of data with a list of actors, nationality, movies they have been on, age, net worth
+
+Data Sources: <br>
+Extracted data for top 250 movies using https://imdb-api.com/api
+This would provide the following information:
+- Movie Title
+- Director
+- Actors
+- Year
+- IMDB Rating
+
+Also extracted data for most popular movies using the same API with the same information as above.
+>>>>>>> 6a107120f8add5c6bc4c7cd972279b1ac3810ded
