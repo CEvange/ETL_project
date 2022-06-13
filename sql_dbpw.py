@@ -1,1 +1,0 @@
-postgrespw = "Diwata2018"
